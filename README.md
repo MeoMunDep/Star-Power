@@ -1,0 +1,2 @@
+# Star-Power
+Auto referrals.
